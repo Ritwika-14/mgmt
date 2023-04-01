@@ -130,4 +130,4 @@ We'd love to have your patches! Please send them by email, or as a pull request.
 
 [Read what people are saying and publishing about mgmt!](docs/on-the-web.md)
 
-Happy hacking!
+Happy hacking fellas!
